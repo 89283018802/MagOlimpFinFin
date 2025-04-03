@@ -449,9 +449,9 @@ const questions = {
         options: ["Формула 1", "Формула 2", "Формула 3", "Формула 4"],
 		tables: [ // Массив таблиц истинности (изображений)
         "images/inductor_energy1.jpg",
-        "images/inductor_energy1.jpg",
-        "images/inductor_energy1.jpg",
-        "images/inductor_energy1.jpg"
+        "images/inductor_energy2.jpg",
+        "images/inductor_energy3.jpg",
+        "images/inductor_energy4.jpg"
     ],
         correct: 2
     },
