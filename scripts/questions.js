@@ -589,7 +589,7 @@ const questions = {
     {
         question: "Какая из таблиц истинности соответствует логическому элементу «И»?",
         options: ["Таблица 1", "Таблица 2", "Таблица 3", "Таблица 4"],
-        image: "images/truth_tables.jpg",
+        image: "images/truth_tables11.jpg",
 		tables: [ // Массив таблиц истинности (изображений)
         "images/truth_tables1.jpg",
         "images/truth_tables2.jpg",
